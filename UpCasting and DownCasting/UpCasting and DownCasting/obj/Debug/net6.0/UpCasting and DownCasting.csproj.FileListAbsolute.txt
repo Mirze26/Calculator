@@ -1,0 +1,15 @@
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\bin\Debug\net6.0\UpCasting and DownCasting.exe
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\bin\Debug\net6.0\UpCasting and DownCasting.deps.json
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\bin\Debug\net6.0\UpCasting and DownCasting.runtimeconfig.json
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\bin\Debug\net6.0\UpCasting and DownCasting.dll
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\bin\Debug\net6.0\UpCasting and DownCasting.pdb
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\obj\Debug\net6.0\UpCasting and DownCasting.csproj.AssemblyReference.cache
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\obj\Debug\net6.0\UpCasting and DownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\obj\Debug\net6.0\UpCasting and DownCasting.AssemblyInfoInputs.cache
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\obj\Debug\net6.0\UpCasting and DownCasting.AssemblyInfo.cs
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\obj\Debug\net6.0\UpCasting and DownCasting.csproj.CoreCompileInputs.cache
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\obj\Debug\net6.0\UpCasting and DownCasting.dll
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\obj\Debug\net6.0\refint\UpCasting and DownCasting.dll
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\obj\Debug\net6.0\UpCasting and DownCasting.pdb
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\obj\Debug\net6.0\UpCasting and DownCasting.genruntimeconfig.cache
+C:\Users\Mirze\Desktop\task\UpCasting and DownCasting\UpCasting and DownCasting\obj\Debug\net6.0\ref\UpCasting and DownCasting.dll
